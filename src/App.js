@@ -11,7 +11,6 @@ const item = {
 }
 
 function App() {
-
   return (
     <div className="container">
       <div className="background-element">
